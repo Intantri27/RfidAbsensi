@@ -6,7 +6,7 @@ package com.mycompany.mavenproject1.panels;
 
 /**
  *
- * @author MyBook Hype AMD
+ * @author Indah
  */
 public class PanelDashboard extends javax.swing.JPanel {
 
